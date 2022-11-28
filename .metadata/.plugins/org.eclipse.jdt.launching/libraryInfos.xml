@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+    <libraryInfo home="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211" version="1.8.0_211">
+        <bootpath>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\resources.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\rt.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\sunrsasign.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\jsse.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\jce.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\charsets.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\jfr.jar"/>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="S:\Escritorio\Serj\DAW\DAW 1\Programacion\jdk1.8.0_211\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\sergi.DESKTOP-IE88ECT\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
     <libraryInfo home="C:\Users\Serj\Desktop\DAW 1\Programacion\jdk1.8.0_211" version="1.8.0_211">
         <bootpath>
             <entry path="C:\Users\Serj\Desktop\DAW 1\Programacion\jdk1.8.0_211\jre\lib\resources.jar"/>
@@ -20,6 +40,7 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="C:\Users\Serj\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038" version="17.0.4.1"/>
+    <libraryInfo home="C:\Users\sergi.DESKTOP-IE88ECT\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre" version="17.0.5"/>
     <libraryInfo home="C:\Program Files (x86)\Java\jre1.8.0_341" version="1.8.0_341">
         <bootpath>
             <entry path="C:\Program Files (x86)\Java\jre1.8.0_341\lib\resources.jar"/>

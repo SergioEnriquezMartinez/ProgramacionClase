@@ -1,0 +1,5 @@
+package VehiculosSeguros;
+
+public class Coche extends Vehiculo {
+
+}

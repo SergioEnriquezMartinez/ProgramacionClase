@@ -23,13 +23,13 @@ public class Init {
 		
 		//Entra una persona y compra 1 coche
 		Persona per2 = new Persona (nombre, apellido1, apellido2, dni);
-		Coche coche1 = new Coche ("Rojo", "2343-CDF", 90);
-		per2.setCoche1(coche1);
+		Vehiculo vehiculo1 = new Vehiculo ("Rojo", "2343-CDF", 90);
+		per2.setCoche1(vehiculo1);
 		
 		//Entra una persna y compra 2 coches
 		Persona per3 = new Persona(nombre, apellido1, apellido2, dni);
-		Coche coche2 = new Coche ("Azul", "1234-ABC", 120);
-		per3.setCoche2(coche2);
+		Vehiculo vehiculo2 = new Vehiculo ("Azul", "1234-ABC", 120);
+		per3.setCoche2(vehiculo2);
 		
 		System.out.println(per1);
 		System.out.println(per2);

@@ -1,0 +1,8 @@
+package VehiculosSeguros;
+
+public class Coche extends Vehiculo {
+	private int cv;
+	public Coche () {
+		super();
+	}
+}

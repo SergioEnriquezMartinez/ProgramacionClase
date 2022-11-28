@@ -5,8 +5,8 @@ public class Persona {
 	private String apellido1;
 	private String apellido2;
 	private String dni;
-	private Coche coche1;
-	private Coche coche2;
+	private Vehiculo vehiculo1;
+	private Vehiculo vehiculo2;
 	
 	//Constructor
 	public Persona (String nombre, String apellido1, String apellido2, String dni) {
@@ -15,20 +15,20 @@ public class Persona {
 		this.apellido2 = apellido2;
 		this.dni = dni;
 	}
-	public Persona (String nombre, String apellido1, String apellido2, String dni, Coche coche1) {
+	public Persona (String nombre, String apellido1, String apellido2, String dni, Vehiculo coche1) {
 		this.nombre = nombre;
 		this.apellido1 = apellido1;
 		this.apellido2 = apellido2;
 		this.dni = dni;
-		this.coche1 = coche1;
+		this.vehiculo1 = coche1;
 	}
-	public Persona (String nombre, String apellido1, String apellido2, String dni, Coche coche1, Coche coche2) {
+	public Persona (String nombre, String apellido1, String apellido2, String dni, Vehiculo coche1, Vehiculo coche2) {
 		this.nombre = nombre;
 		this.apellido1 = apellido1;
 		this.apellido2 = apellido2;
 		this.dni = dni;
-		this.coche1 = coche1;
-		this.coche2 = coche2;
+		this.vehiculo1 = coche1;
+		this.vehiculo2 = coche2;
 	}
 	
 	//Getters
@@ -44,11 +44,11 @@ public class Persona {
 	public String getDni() {
 		return this.dni;
 	}
-	public Coche getCoche1() {
-		return this.coche1;
+	public Vehiculo getCoche1() {
+		return this.vehiculo1;
 	}
-	public Coche getCoche2() {
-		return this.coche2;
+	public Vehiculo getCoche2() {
+		return this.vehiculo2;
 	}
 	
 	//Setters
@@ -64,16 +64,16 @@ public class Persona {
 	public void setDni (String dni) {
 		this.dni = dni;
 	}
-	public void setCoche1(Coche coche1) {
-		this.coche1 = coche1;
+	public void setCoche1(Vehiculo coche1) {
+		this.vehiculo1 = coche1;
 	}
-	public void setCoche2(Coche coche2) {
-		this.coche2 = coche2;
+	public void setCoche2(Vehiculo coche2) {
+		this.vehiculo2 = coche2;
 	}
 	
 	@Override
 	public String toString() {
-		return "Nombre: " + nombre + "\nPrimer Apellido: " + apellido1 + "\nSegundo Apellido: " + apellido2 + "\nDNI: " + dni + "\nCoche semana: " + coche1
-				+ "\nCoche fin de semana: " + coche2;
+		return "Nombre: " + nombre + "\nPrimer Apellido: " + apellido1 + "\nSegundo Apellido: " + apellido2 + "\nDNI: " + dni + "\nPrimer vehículo: " + vehiculo1
+				+ "\nSegundo vehículo: " + vehiculo2;
 	}
 }
