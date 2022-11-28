@@ -1,0 +1,9 @@
+package Edu.Sergio.daw.Ejercicios_Entrega_Tema2;
+
+import java.util.Scanner;
+
+public class Condicionales_Ej_9 {
+	public static void main(String[] args) {
+		
+	}
+}

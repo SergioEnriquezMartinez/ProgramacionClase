@@ -1,0 +1,10 @@
+package VehiculosSeguros;
+
+import java.util.Date;
+
+public class Coche {
+	private String color;
+	private String matricula;
+	private Date fechCompra;
+	
+}

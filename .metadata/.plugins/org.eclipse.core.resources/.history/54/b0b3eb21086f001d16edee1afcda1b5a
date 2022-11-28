@@ -1,0 +1,14 @@
+package VehiculosSeguros;
+
+import java.time.LocalDate;
+import java.util.Date;
+
+public class Seguro {
+	private LocalDate fechRenovacion;
+	private float precio;
+	
+	public Seguro(int cv) {
+		this.fechRenovacion = LocalDate.now().plusYears(1);
+		if(cv >= 50 && )
+	}
+}

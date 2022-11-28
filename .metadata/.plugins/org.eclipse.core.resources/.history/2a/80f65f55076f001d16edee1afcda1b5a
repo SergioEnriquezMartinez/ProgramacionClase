@@ -1,0 +1,38 @@
+package VehiculosSeguros;
+
+import java.time.LocalDate;
+import java.util.Date;
+
+public class Coche {
+	private String color;
+	private String matricula;
+	private LocalDate fechCompra;
+	private int cv;
+	private float seguro;
+	
+	//Constructor
+	public Coche (String color, String matricula, Date fecCompra, int cv, Seguro seguro) {
+		this.color = color;
+		this.matricula = matricula;
+		this.fechCompra = LocalDate.now();
+		this.cv = cv;
+		this.seguro = Seguro.precio;
+	}
+	
+	//Getters
+	public String getColor() {
+		return this.color;
+	}
+	public String getMatricula() {
+		return this.matricula;
+	}
+	public LocalDate getFechCommpra() {
+		return this.fechCompra;
+	}
+	public int getCv() {
+		return this.cv;
+	}
+	public Seguro seguro() {
+		return this.seguro;
+	}
+}

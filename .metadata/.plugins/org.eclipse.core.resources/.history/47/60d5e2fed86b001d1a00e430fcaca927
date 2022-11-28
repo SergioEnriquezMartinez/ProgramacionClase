@@ -1,0 +1,14 @@
+package Edu.Sergio.daw.CuentaBancaria;
+
+import java.time.LocalDate;
+
+public class Intereses {
+	public double calculaIntereses(Cuenta cuenta) {
+		double result = 0;
+		if (cuenta.getfechcrea().isBefore(LocalDate.now().minusYears(3)) && cuenta.getfechcrea().isAfter(LocalDate.now().minusYears(5))) {
+			
+		}
+		return result;
+	}
+
+}

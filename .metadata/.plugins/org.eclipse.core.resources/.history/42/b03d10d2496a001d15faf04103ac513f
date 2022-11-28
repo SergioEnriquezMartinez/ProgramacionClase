@@ -1,0 +1,7 @@
+package Edu.Sergio.daw.CuentaBancaria;
+
+public class Intereses {
+	//Atributos
+	private LocalDate fechcrea;
+
+}

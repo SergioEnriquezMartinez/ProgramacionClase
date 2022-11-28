@@ -1,0 +1,9 @@
+package VehiculosSeguros;
+
+import java.util.Date;
+
+public class Seguro {
+	private Date fechRenovacion;
+	private float precio;
+	
+}

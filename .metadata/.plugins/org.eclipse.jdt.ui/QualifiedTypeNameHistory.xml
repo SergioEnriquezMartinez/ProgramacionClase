@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Edu.Sergio.daw.Tema3.Cliente"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCreation"/>
+    <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cliente"/>
+    <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cuenta"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,12 @@
+package Edu.Sergio.daw.CuentaBancaria;
+
+import java.time.LocalDate;
+
+public class Intereses {
+	//Atributos
+	private LocalDate fechcrea;
+	
+	//Método
+	
+
+}

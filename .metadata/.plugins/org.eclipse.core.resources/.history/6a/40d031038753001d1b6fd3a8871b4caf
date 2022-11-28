@@ -1,0 +1,15 @@
+package Edu.Sergio.daw.Ejercicios_Entrega_Tema2;
+
+import java.util.Scanner;
+
+public class Condicionales_Ej_11 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int num= sc.nextInt();
+		System.out.print("Introduzca un número del 0 al 99: ");
+		
+		while (num < 0 || num > 100) {
+			System.out.print("Introduzca un número dentro del rango");
+		}
+	}
+}
