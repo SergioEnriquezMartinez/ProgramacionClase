@@ -33,5 +33,6 @@ public class Init {
 		
 		System.out.println(per1);
 		System.out.println(per2);
+		System.out.println(vehiculo2);
 	}
 }

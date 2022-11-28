@@ -12,11 +12,11 @@ public class Vehiculo {
 	public Vehiculo () {
 		
 	}
-	public Vehiculo (String color, String matricula, int cv) {
+	public Vehiculo (String color, String matricula, int potencia) {
 		this.color = color;
 		this.matricula = matricula;
 		this.fechCompra = LocalDate.now();
-		this.seguro = new Seguro(cv);
+		this.seguro = new Seguro(potencia);
 	}
 	
 	//Getters

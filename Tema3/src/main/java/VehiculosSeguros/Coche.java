@@ -1,16 +1,9 @@
 package VehiculosSeguros;
 
-import java.time.LocalDate;
-
 public class Coche extends Vehiculo {
 	private int cv;
-	public Coche () {
-		super();
-	}
 	public Coche(String color, String matricula, int cv) {
-		this.color = color;
-		this.matricula = matricula;
-		this.fechCompra = LocalDate.now();
+		super(color, matricula, cv);
 		this.cv = cv;
 	}
 	@Override
