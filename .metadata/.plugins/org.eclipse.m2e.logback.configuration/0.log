@@ -6476,3 +6476,244 @@ org.eclipse.core.runtime.CoreException: Launch configuration Ejemplo references 
 2022-11-28 19:14:17,569 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
 2022-11-28 19:14:17,571 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-28 19:14:17,571 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 17:59:25,549 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-29 18:01:02,660 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:01:02,663 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:01:02,667 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:01:02,667 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:01:08,455 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:01:08,456 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:01:08,460 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:01:08,460 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:06:52,122 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:06:52,122 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:06:52,125 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:06:52,126 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:07:15,688 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:07:15,688 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:07:15,690 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:07:15,691 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:07:20,200 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:07:20,200 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:07:20,203 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:07:20,203 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:07:59,123 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:07:59,123 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:07:59,126 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:07:59,126 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:29:39,577 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:29:39,577 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:29:39,582 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:29:39,582 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:29:49,980 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:29:49,980 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:29:49,984 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:29:49,985 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:31:20,041 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:31:20,041 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:31:20,043 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:31:20,043 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:35:19,896 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:35:19,896 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:35:19,899 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:35:19,899 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 18:46:41,033 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:46:41,033 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 18:46:41,035 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 18:46:41,036 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 19:47:29,725 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 19:47:29,725 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 19:47:29,730 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 19:47:29,730 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 19:47:36,658 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 19:47:36,658 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 19:47:36,660 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 19:47:36,660 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:33:28,193 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:33:28,194 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:33:28,198 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:33:28,198 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:37:34,724 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:37:34,724 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:37:34,727 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:37:34,727 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:38:29,223 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:38:29,223 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:38:29,226 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:38:29,226 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:38:35,637 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:38:35,637 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:38:35,639 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:38:35,639 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:39:12,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:39:12,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:39:12,065 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:39:12,065 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:39:32,893 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:39:32,893 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:39:32,896 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:39:32,896 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:39:39,213 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:39:39,213 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:39:39,217 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:39:39,217 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:43:26,174 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:43:26,174 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:43:26,176 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:43:26,176 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:43:59,036 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:43:59,036 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:43:59,038 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:43:59,038 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:45:48,941 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:45:48,941 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:45:48,943 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:45:48,943 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:46:34,806 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:46:34,806 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:46:34,808 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:46:34,808 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:48:20,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:48:20,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:48:20,075 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:48:20,075 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:49:00,744 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:49:00,744 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:49:00,746 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:49:00,746 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:49:20,668 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:49:20,668 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:49:20,670 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:49:20,670 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:49:47,587 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:49:47,587 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:49:47,589 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:49:47,589 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:50:17,527 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:50:17,527 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:50:17,529 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:50:17,529 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:51:08,592 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:51:08,592 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:51:08,594 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:51:08,594 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:53:45,295 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:53:45,296 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:53:45,297 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:53:45,298 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:55:44,752 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:55:44,752 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:55:44,754 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:55:44,754 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:55:55,142 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:55:55,142 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:55:55,144 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:55:55,144 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 20:58:38,063 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:58:38,063 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 20:58:38,065 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 20:58:38,065 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:04:05,749 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:04:05,750 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:04:05,768 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:04:05,768 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:13:32,947 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:13:32,947 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:13:32,949 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:13:32,950 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:13:43,620 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:13:43,620 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:13:43,622 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:13:43,622 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:16:01,072 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:16:01,073 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:16:01,075 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:16:01,075 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:17:11,473 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:17:11,473 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:17:11,475 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:17:11,475 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:19:10,357 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:19:10,358 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:19:10,361 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:19:10,361 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:20:49,325 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:20:49,325 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:20:49,326 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:20:49,327 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:21:28,274 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:21:28,274 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:21:28,276 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:21:28,276 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:21:53,970 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:21:53,970 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:21:53,973 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:21:53,973 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:24:19,288 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:24:19,289 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:24:19,291 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:24:19,291 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:31:25,175 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:31:25,175 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:31:25,176 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:31:25,177 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:33:16,595 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:16,595 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:33:16,597 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:16,597 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:33:20,877 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:20,877 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:33:20,879 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:20,879 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:33:31,716 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:31,717 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:33:31,718 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:31,719 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:33:50,870 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:50,871 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:33:50,872 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:33:50,873 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:34:20,495 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:34:20,495 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:34:20,497 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:34:20,497 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:35:28,264 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:35:28,265 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:35:28,266 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:35:28,266 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:36:01,467 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:36:01,468 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:36:01,470 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:36:01,470 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:36:44,683 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:36:44,683 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:36:44,685 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:36:44,685 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:40:00,621 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:40:00,621 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:40:00,623 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:40:00,623 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:46:54,848 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:46:54,849 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:46:54,850 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:46:54,851 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:47:08,928 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:47:08,928 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:47:08,930 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:47:08,930 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:48:13,161 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:48:13,161 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:48:13,163 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:48:13,163 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:54:26,874 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:54:26,874 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:54:26,876 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:54:26,876 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:58:56,518 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:58:56,518 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:58:56,520 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:58:56,520 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
+2022-11-29 21:59:05,936 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:59:05,936 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\main\resources
+2022-11-29 21:59:05,937 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 21:59:05,937 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3\src\test\resources
