@@ -1,0 +1,13 @@
+package AhorroNomina;
+
+public class Cuenta {
+	protected String nombre;
+	protected String ap1;
+	protected String ap2;
+	protected String dni;
+	protected String iban;
+	
+	public Cuenta(String nombre, String ap1, String ap2, String dni, String iban) {
+		
+	}
+}

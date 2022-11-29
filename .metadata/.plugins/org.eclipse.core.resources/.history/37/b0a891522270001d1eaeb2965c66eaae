@@ -1,0 +1,13 @@
+package AhorroNomina;
+
+public class CuentaAhorro {
+	private double saldo;
+	private double interes;
+	
+	public void intereses(double saldo) {
+		if(saldo <= 1000) {
+			saldo*=0.99;
+			interes = 0.01;
+		}
+	}
+}

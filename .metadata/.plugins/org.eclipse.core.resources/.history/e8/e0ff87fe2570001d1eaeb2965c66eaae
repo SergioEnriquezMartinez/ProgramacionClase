@@ -1,0 +1,5 @@
+package AhorroNomina;
+
+public class CuentaNomina extends Cuenta {
+	
+}

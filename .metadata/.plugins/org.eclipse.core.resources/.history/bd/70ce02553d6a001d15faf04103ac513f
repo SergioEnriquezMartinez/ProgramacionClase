@@ -1,7 +1,0 @@
-package Edu.Sergio.daw.CuentaBancaria;
-
-public class Init {
-	public static void main(String[] args) {
-		Cliente cli1 = new Cliente(nombre, apellido1, apellido2, dni, cuenta)
-	}
-}
