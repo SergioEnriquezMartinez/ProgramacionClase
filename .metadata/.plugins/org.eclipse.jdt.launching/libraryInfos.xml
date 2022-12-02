@@ -20,6 +20,27 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="C:\Users\sergi.DESKTOP-IE88ECT\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
+    <libraryInfo home="C:\Users\sergi\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
+    <libraryInfo home="C:\Users\sergi\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre" version="17.0.5"/>
+    <libraryInfo home="C:\Users\sergi\Downloads\jdk1.8.0_211" version="1.8.0_211">
+        <bootpath>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\resources.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\rt.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\jsse.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\jce.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\charsets.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\jfr.jar"/>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Users\sergi\Downloads\jdk1.8.0_211\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
     <libraryInfo home="C:\Users\Serj\Desktop\DAW 1\Programacion\jdk1.8.0_211" version="1.8.0_211">
         <bootpath>
             <entry path="C:\Users\Serj\Desktop\DAW 1\Programacion\jdk1.8.0_211\jre\lib\resources.jar"/>
