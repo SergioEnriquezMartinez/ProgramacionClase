@@ -1,0 +1,8 @@
+package Clases1_1;
+
+public class Cuenta {
+	private String nombre;
+	private String ap1;
+	private String ap2;
+	
+}

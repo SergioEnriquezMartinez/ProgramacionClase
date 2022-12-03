@@ -8,6 +8,8 @@
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cuenta"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Clases1_1.Cuenta"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
 </qualifiedTypeNameHistroy>
