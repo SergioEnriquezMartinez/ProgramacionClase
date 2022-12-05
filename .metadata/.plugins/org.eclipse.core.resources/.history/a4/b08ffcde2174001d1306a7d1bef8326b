@@ -1,0 +1,14 @@
+package Empresa;
+
+public class Desarrolador extends Empleados {
+	private boolean jv;
+	private boolean js;
+	private boolean net;
+	
+	public Desarrolador(String nombre, String dni, int edad, int sueldo, boolean jv, boolean js, boolean net) {
+		super(nombre, dni, edad, sueldo);
+		this.jv = jv;
+		this.js = js;
+		this.net = net;
+	}
+}

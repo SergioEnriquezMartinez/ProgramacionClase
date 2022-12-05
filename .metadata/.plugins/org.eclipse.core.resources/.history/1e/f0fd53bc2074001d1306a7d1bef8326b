@@ -1,0 +1,8 @@
+package Empresa;
+
+public class Directivo extends Empleados {
+	
+	private int bonus;
+	
+	public Directivo(int bonus)
+}

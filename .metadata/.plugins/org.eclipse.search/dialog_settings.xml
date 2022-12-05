@@ -21,7 +21,7 @@
 		<item key="scope" value="0"/>
 	</section>
 	<section name="DialogBounds_SearchDialog">
-		<item key="DIALOG_X_ORIGIN" value="716"/>
+		<item key="DIALOG_X_ORIGIN" value="615"/>
 		<item key="DIALOG_Y_ORIGIN" value="232"/>
 		<item key="DIALOG_WIDTH" value="504"/>
 		<item key="DIALOG_HEIGHT" value="445"/>

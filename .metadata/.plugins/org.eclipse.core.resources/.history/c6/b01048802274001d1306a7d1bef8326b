@@ -1,0 +1,10 @@
+package Empresa;
+
+public class Tester extends Empleados {
+	private int proyectos;
+	
+	
+	public Tester(String nombre, String dni, int edad, int sueldo, int protyectos) {
+		
+	}
+}

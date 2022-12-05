@@ -1,0 +1,11 @@
+package Empresa;
+
+public class Directivo extends Empleados {
+	
+	private int bonus;
+	
+	public Directivo(String nombre, String dni, int edad, int sueldo, int bonus) {
+		super(nombre, dni, edad, sueldo);
+		
+	}
+}
