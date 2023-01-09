@@ -1,0 +1,21 @@
+package pdf_Metodos;
+
+import java.util.Scanner;
+
+public class Ej3 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Introduzca el número del cual quiere saber el factorial: ");
+		int num = sc.nextInt();
+		int factorial;
+		sc.close();
+		
+		
+		public static factorial(num) {
+			for(int i = num; num >= 1; i--) {
+				
+			}
+		}
+	}
+}
