@@ -1,9 +1,0 @@
-package AhorroNomina;
-
-public class Cuentas {
-	protected String nombre;
-	protected String ap1;
-	protected String ap2;
-	protected String iban;
-	
-}

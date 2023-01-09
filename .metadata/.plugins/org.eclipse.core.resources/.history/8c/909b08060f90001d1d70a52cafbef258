@@ -1,0 +1,21 @@
+package pdf_Metodos;
+
+import java.util.Scanner;
+
+public class ej2 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Introduzca el número que quiere aproximar: ");
+		float num = sc.nextFloat();
+		
+		System.out.println("Introduzca el número de decimales que quiere: ");
+		int decimal = sc.nextInt();
+		
+		sc.close();
+	}
+	
+	public static void redondear(float num, int decimal) {
+		num *= Math.pow(10, decimal);
+	}
+}

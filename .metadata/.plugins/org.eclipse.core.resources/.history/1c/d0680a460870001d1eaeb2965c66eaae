@@ -1,7 +1,0 @@
-package CuentaAhorro;
-/*somos un banco y tenemos que gestionar cuentas ahorro y
- * cuentas nominas (las cuentas tienen iban y saldo)  si la cuenta es nomina que sea 0,
- * y si es ahorro, cuanto mas saldo mas interes*/
-public class Init {
-
-}

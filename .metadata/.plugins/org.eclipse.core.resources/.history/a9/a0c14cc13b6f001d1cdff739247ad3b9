@@ -1,9 +1,0 @@
-package VehiculosSeguros;
-
-public class Coche extends Vehiculo {
-	private int cv;
-	public Coche (int cv) {
-		super(color, matricula, 0);
-		this.cv = cv;
-	}
-}

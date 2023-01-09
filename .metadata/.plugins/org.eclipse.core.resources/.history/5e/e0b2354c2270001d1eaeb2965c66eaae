@@ -1,6 +1,0 @@
-package AhorroNomina;
-
-public class CuentaAhorro {
-	private double saldo;
-	
-}
