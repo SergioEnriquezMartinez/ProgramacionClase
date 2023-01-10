@@ -1,0 +1,91 @@
+package Rectangulo;
+
+import java.util.Objects;
+
+public class Rectangulo {
+	
+	private final int ANCHO_DEFECTO = 3;
+	private final int LARGO_DEFECTO = 4;
+	
+	private int ancho;
+	private int largo;
+	
+	
+	public Rectangulo() {
+		this.ancho = ANCHO_DEFECTO;
+		this.largo = LARGO_DEFECTO;
+	}
+	
+	
+	public Rectangulo(int ancho, int largo) {
+		if (ancho <= 0) {
+			this.ancho = ANCHO_DEFECTO;	
+		} else {
+			this.ancho = ancho;
+		}
+		
+		if (largo <= 0) {
+			this.largo = LARGO_DEFECTO;
+		} else {
+			this.largo = largo;
+		}
+		
+		if (this.ancho == this.largo) {
+			if (this.ancho != ANCHO_DEFECTO) {
+				this.ancho = ANCHO_DEFECTO;
+			} else {
+				this.largo = LARGO_DEFECTO;
+			}
+		}
+	}
+	
+	public void imprimeRectangulo() {
+		for (int i = 0; i < this.ancho; i++) {
+			System.out.print("*");
+		}
+		System.out.println();
+	}
+	
+	public int getArea() {
+		return this.ancho * this.largo;
+	}
+	
+	public int getPerimetro() {
+		return (this.ancho + this.largo) * 2;
+	}
+	
+	public int getAncho() {
+		return ancho;
+	}
+	public void setAncho(int ancho) {
+		this.ancho = ancho;
+	}
+	public int getLargo() {
+		return largo;
+	}
+	public void setLargo(int largo) {
+		this.largo = largo;
+	}
+	
+	@Override
+	public int hashCode() {
+		return Objects.hash(ancho, largo);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Rectangulo other = (Rectangulo) obj;
+		return ancho == other.ancho && largo == other.largo;
+	}
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
+}

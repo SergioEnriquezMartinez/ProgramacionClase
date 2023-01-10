@@ -20,7 +20,7 @@ public class Ej3 {
 		} else if (num == 0) {
 			factorial = -2;
 		} else {
-			for(int i = num - 1; i >= 1; i--) {
+			for(int i = num - 1; i > 1; i--) {
 				factorial *= i;
 			}
 		}

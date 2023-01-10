@@ -1,5 +1,7 @@
 package pdf_Metodos;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.Scanner;
 
 public class ej2 {
@@ -19,18 +21,23 @@ public class ej2 {
 	
 	public static void redondear(float num, int decimal) {
 		num *= Math.pow(10, decimal);
-		num = (int) num;
 		
 		double lastCifra = num * Math.pow(10, decimal + 1);
-		do {
-			lastCifra /= 10;
-		} while (lastCifra <= 9);
+		lastCifra %= 10;
 		
 		if (lastCifra >= 5) {
-			num += 1;
+			num++;
 		}
+		
+		num = (int) num;
+		
 		num /= Math.pow(10, decimal);
 		
 		System.out.println(num);
+	}
+	
+	public static double redondeoB(float num, int decimal) {
+		BigDecimal bd = new BigDecimal(num).setScale(decimal, RoundingMode.HALF_EVEN);
+		return bd.doubleValue();
 	}
 }

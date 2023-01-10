@@ -1,0 +1,12 @@
+package Rectangulo;
+
+public class Rectangulo {
+	
+	private final int ANCHO_DEFECTO = 3;
+	private final int LARGO_DEFECTO = 4;
+	
+	private int ancho;
+	private int largo;
+	
+	
+}
