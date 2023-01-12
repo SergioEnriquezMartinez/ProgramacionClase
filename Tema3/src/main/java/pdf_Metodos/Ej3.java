@@ -1,5 +1,10 @@
 package pdf_Metodos;
 
+/*Método factorial(), que calculará el factorial del número que se le pasa como 
+parámetro. Retornará el resultado del calculo del factorial, o bien un -1 en caso 
+de que el parámetro pasado sea negativo, y un -2 en caso de que el parámetro 
+pasado sea cero*/
+
 import java.util.Scanner;
 
 public class Ej3 {

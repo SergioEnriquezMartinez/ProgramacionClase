@@ -1,0 +1,15 @@
+package Clases1_2;
+
+import java.util.Scanner;
+
+/* Desarrolla una clase Circunferencia que permita calcular su radio y longitud. Se 
+debe hacer uso de la clase Scanner*/
+
+public class Circunferencia {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Introduzca el radio de la circunferencia: ");
+		double radio = sc.nextDouble();
+	}
+}

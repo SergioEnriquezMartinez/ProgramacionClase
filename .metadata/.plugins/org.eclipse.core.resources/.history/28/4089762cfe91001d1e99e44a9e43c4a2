@@ -1,0 +1,33 @@
+package pdf_Metodos;
+
+import java.util.Scanner;
+
+public class Ej1 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Introduzca una letra: ");
+		String letra = sc.nextLine();
+		sc.close();
+		
+		System.out.println(esVocal(letra));
+		
+	}
+	
+	public static boolean esVocal(String letra) {
+		switch (letra) {
+		case "a":
+			return true;
+		case "e":
+			return true;
+		case "i":
+			return true;
+		case "o":
+			return true;
+		case "u":
+			return true;
+		default:
+			return false;
+		}
+	}
+}

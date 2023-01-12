@@ -1,5 +1,11 @@
 package pdf_Metodos;
 
+/*Realiza un método redondear() al que se le pasa como parámetro un numero 
+float y los decimales que deben quedar después de redondear, y retorna el 
+numero redondeado.
+Ejemplo: redondear( 234.49234 , 3 )
+Da como resultado : 234.492*/
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;

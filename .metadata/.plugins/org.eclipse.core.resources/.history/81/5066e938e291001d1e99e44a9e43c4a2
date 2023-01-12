@@ -1,0 +1,23 @@
+package pdf_Metodos;
+
+import java.util.Scanner;
+
+public class Ej4 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		do {
+		System.out.println("Introduce un día: ");
+		int dia = sc.nextInt();
+		System.out.println("Introduce un mes: ");
+		int mes = sc.nextInt();
+		} while (!comprobarValidez());
+		
+		sc.close();
+	}
+	
+	
+	public static boolean comprobarValidez() {
+		
+	}
+}

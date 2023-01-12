@@ -1,0 +1,30 @@
+package Clases1_3;
+
+/*Implementar una clase llamada Operacion. Definir dos métodos estáticos que 
+permitan sumar y restar dos valores enteros*/
+
+import java.util.Scanner;
+
+public class Operacion {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Introduzca un entero: ");
+		int num1 = sc.nextInt();
+		System.out.println("Introduzca otro entero: ");
+		int num2 = sc.nextInt();
+		sc.close();
+		System.out.println("Suma: " + suma(num1, num2) + "\nResta: " + resta(num1, num2));
+		
+	}
+	
+	public static int suma(int num1, int num2) {
+		int suma = num1 + num2;
+		return suma;
+	}
+	
+	public static int resta(int num1, int num2) {
+		int resta = num1 - num2;
+		return resta;
+	}
+}

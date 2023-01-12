@@ -1,0 +1,10 @@
+package Clases1_2;
+
+/* Desarrolla una clase Circunferencia que permita calcular su radio y longitud. Se 
+debe hacer uso de la clase Scanner*/
+
+public class Circunferencia {
+	public static void main(String[] args) {
+		
+	}
+}
