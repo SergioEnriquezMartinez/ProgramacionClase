@@ -11,37 +11,37 @@ descifrado es el contrario. Los caracteres que no sean alfabéticos no registrar
 ningún cambio*/
 
 public class ej5 {
-	public static int clave;
+	public static int n;
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Introduzca una frase: ");
 		String cadena = sc.nextLine();
 		System.out.println("Introduzca la clave de cifrado: ");
-		clave = sc.nextInt();
+		n = sc.nextInt();
 		sc.close();
-		String cadCifrada = cifrar(cadena, clave);
+		String cadCifrada = cifrar(cadena);
 		System.out.println("Cadena cifrada: " + cadCifrada);
-		String cadDescifrada = descifrar(cadCifrada, clave);
+		String cadDescifrada = descifrar(cadCifrada);
 		System.out.println("Cadena descifrada: " + cadDescifrada);
 	}
 	
-	public static String cifrar(String cadena, int clave) {
+	public static String cifrar(String cadena) {
 		String cadCifrada = "";
-		int resto = clave % 26;
+		
 		for (int i = 0; i < cadena.length(); i++) {
 			int numVal = cadena.charAt(i);
 			if (numVal != 32) {
 				if (numVal == 89) {
-					numVal = 65 + resto;
+					numVal = 65;
 				} else if (numVal == 90) {
-					numVal = 66 + resto;
+					numVal = 66;
 				} else if (numVal == 121) {
-					numVal = 97 + resto;
+					numVal = 97;
 				} else if (numVal == 122) {
-					numVal = 98 + resto;
+					numVal = 98;
 				} else {
-					numVal += resto;
+					numVal += 2;
 				}
 			}
 			cadCifrada += (char) numVal;
@@ -49,22 +49,22 @@ public class ej5 {
 		return cadCifrada;
 	}
 	
-	public static String descifrar(String cadenaCifrada, int clave) {
+	public static String descifrar(String cadenaCifrada) {
 		String cadDescifrada = "";
-		int resto = clave % 26;
+		
 		for (int i = 0; i < cadenaCifrada.length(); i++) {
 			int numVal = cadenaCifrada.charAt(i);
 			if (numVal != 32) {
 				if (numVal == 65) {
-					numVal = 89 + resto;
+					numVal = 89;
 				} else if (numVal == 66) {
-					numVal = 90 + resto;
+					numVal = 90;
 				} else if (numVal == 97) {
-					numVal = 121 + resto;
+					numVal = 121;
 				} else if (numVal == 98) {
-					numVal = 122 + resto;
+					numVal = 122;
 				} else {
-					numVal -= resto;
+					numVal -= 2;
 				}
 			}
 			cadDescifrada += (char) numVal;
