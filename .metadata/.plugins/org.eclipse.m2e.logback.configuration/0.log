@@ -8280,3 +8280,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration Ejemplo references 
 2023-01-16 09:13:03,643 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\main\resources
 2023-01-16 09:13:03,644 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-01-16 09:13:03,645 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\test\resources
+2023-01-16 11:05:40,241 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
