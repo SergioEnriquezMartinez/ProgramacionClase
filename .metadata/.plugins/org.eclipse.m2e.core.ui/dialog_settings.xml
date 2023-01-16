@@ -79,4 +79,21 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema3"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\tema2"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\tema1"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Ejercicios_Entrega_Tema2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>
