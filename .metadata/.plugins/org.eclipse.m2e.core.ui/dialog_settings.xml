@@ -81,16 +81,16 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema3"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\tema1"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\tema2"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Ejercicios_Entrega_Tema2"/>
+			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema4"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\tema2"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\tema1"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Ejercicios_Entrega_Tema2"/>
-			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4"/>
-			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema3"/>
-			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\tema2"/>
-			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\tema1"/>
-			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Ejercicios_Entrega_Tema2"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
