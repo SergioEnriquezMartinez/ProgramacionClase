@@ -5,7 +5,7 @@ ordenado o no.*/
 
 public class Ej2 {
 	public static void main(String[] args) {
-		int [] arrayNum = {15, 27, 6, 18, 2};
+		int [] arrayNum = {15, 27, 36, 48, 52};
 		boolean mayor = true;
 		boolean menor = true;
 		
@@ -22,7 +22,7 @@ public class Ej2 {
 		}
 		
 		if (menor == false && mayor == false) {
-			System.out.println("Ordenados");
+			System.out.println("No Ordenados");
 		} else {
 			System.out.println("Ordenados");
 		}
