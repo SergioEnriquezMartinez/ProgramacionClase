@@ -9495,3 +9495,17 @@ org.eclipse.core.runtime.CoreException: Launch configuration Ejemplo references 
 2023-01-19 09:27:03,321 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\main\resources
 2023-01-19 09:27:03,324 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-01-19 09:27:03,325 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\test\resources
+2023-01-20 13:37:56,124 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-23 10:47:16,724 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-23 12:36:06,196 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-23 12:36:06,242 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\main\resources
+2023-01-23 12:36:06,244 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-23 12:36:06,244 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\test\resources
+2023-01-23 12:37:03,215 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-23 12:37:03,215 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\main\resources
+2023-01-23 12:37:03,219 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-23 12:37:03,219 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\test\resources
+2023-01-23 12:46:33,781 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-23 12:46:33,782 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\main\resources
+2023-01-23 12:46:33,784 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-23 12:46:33,784 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4\src\test\resources
