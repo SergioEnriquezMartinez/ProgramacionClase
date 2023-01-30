@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3"/>
 			<item value="C:\Users\Serj\eclipse-workspace"/>
 			<item value="C:\Users\Serj\eclipse-workspace\tema1\src\main\java\Edu\Sergio\daw\tema2"/>
@@ -28,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Edu.Sergio.daw.Tema5"/>
 			<item value="Edu.Sergio.daw.Tema4"/>
 			<item value="Edu.Sergio.daw.Tema3"/>
 			<item value="Edu.Sergio.daw.Ejercicios_Entrega_Tema2"/>
@@ -38,6 +40,7 @@
 			<item value="Edu.Sergio.daw"/>
 		</list>
 		<list key="artifactId">
+			<item value="Tema5"/>
 			<item value="Tema4"/>
 			<item value="Tema3"/>
 			<item value="Ejercicios_Entrega_Tema2"/>
@@ -81,6 +84,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase"/>
 			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema4"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3"/>
