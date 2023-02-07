@@ -12,7 +12,7 @@ public class Ej_4_Digitos {
 		int n = sc.nextInt();
 		sc.close();
 		
-		System.out.println(digitosSuma(n));
+		System.out.println("Resultado: " + digitosSuma(n));
 	}
 	
 	public static int digitosSuma(int n) {
@@ -20,9 +20,9 @@ public class Ej_4_Digitos {
 			System.out.println(n);
 			return n;
 		} else {
-			int aux = n % 10;
-			System.out.print(aux + " ");	//Lo hace en el sentido inverso
-			return aux + digitosSuma(n / 10);
+			int sum = digitosSuma(n / 10);
+			System.out.println((n % 10) + " ");	//Lo hace en el sentido inverso
+			return (n % 10) + sum;
 		}
 	}
 }
