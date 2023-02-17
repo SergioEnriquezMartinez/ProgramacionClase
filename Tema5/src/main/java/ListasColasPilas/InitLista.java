@@ -1,6 +1,6 @@
-package Listas;
+package ListasColasPilas;
 
-public class Init {
+public class InitLista {
 	public static void main(String[] args) {
 
 		Lista lista = new ListaEnlazadaSimple();

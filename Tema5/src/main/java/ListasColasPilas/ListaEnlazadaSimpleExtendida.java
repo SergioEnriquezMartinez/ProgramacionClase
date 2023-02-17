@@ -1,4 +1,4 @@
-package Listas;
+package ListasColasPilas;
 
 public class ListaEnlazadaSimpleExtendida implements Lista {
 	private Nodo primero;

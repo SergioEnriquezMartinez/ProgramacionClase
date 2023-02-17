@@ -1,4 +1,4 @@
-package Listas;
+package ListasColasPilas;
 
 public interface Lista {
 	/**
