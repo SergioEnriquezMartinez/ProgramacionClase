@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCreation"/>
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cliente"/>
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cuenta"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="Clases1_1.Cuenta"/>
@@ -20,4 +19,6 @@
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

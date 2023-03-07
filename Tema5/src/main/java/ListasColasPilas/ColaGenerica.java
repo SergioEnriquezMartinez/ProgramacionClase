@@ -1,4 +1,4 @@
-package pruebas.pruebas;
+package ListasColasPilas;
 
 public class ColaGenerica<T> {
 	private NodoGenerico<T> primero;

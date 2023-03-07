@@ -1,4 +1,4 @@
-package pruebas.pruebas;
+package ListasColasPilas;
 
 import java.util.Objects;
 

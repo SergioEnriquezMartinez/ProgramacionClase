@@ -1,4 +1,4 @@
-package pruebas.pruebas;
+package ListasColasPilas;
 
 public class AlgoritmosOrdenacion {
 	
