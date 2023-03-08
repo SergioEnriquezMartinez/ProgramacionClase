@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCreation"/>
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cliente"/>
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cuenta"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="Clases1_1.Cuenta"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
@@ -20,5 +19,12 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Clases_1.Producto"/>
+    <fullyQualifiedTypeName name="Clases_1.Stock"/>
+    <fullyQualifiedTypeName name="java.util.DoubleSummaryStatistics"/>
+    <fullyQualifiedTypeName name="Clases_1.Factura"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="Clases_1.CajonFacturas"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

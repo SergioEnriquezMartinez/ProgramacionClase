@@ -1,5 +1,7 @@
 package Clases_1;
 
+import java.util.Objects;
+
 /**
  * @author sergi
  * Contiene la información de cada producto en la tienda.
@@ -69,6 +71,33 @@ public class Producto {
 
 	public void setMinimo(int minimo) {
 		this.minimo = minimo;
+	}
+
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(cantidad, codigo, descripcion, minimo, precio);
+	}
+
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Producto other = (Producto) obj;
+		return cantidad == other.cantidad && codigo == other.codigo && Objects.equals(descripcion, other.descripcion)
+				&& minimo == other.minimo && Float.floatToIntBits(precio) == Float.floatToIntBits(other.precio);
+	}
+
+
+	@Override
+	public String toString() {
+		return "Producto = > código de producto '" + codigo + "', descripcion del producto '" + descripcion + "', precio '" + precio + "', cantidad '"
+				+ cantidad + "', minimo '" + minimo + "'\n";
 	}
 	
 	
