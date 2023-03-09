@@ -12,7 +12,6 @@
     <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
@@ -27,4 +26,8 @@
     <fullyQualifiedTypeName name="Clases_1.CajonFacturas"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Clases_2.Cuadrado"/>
+    <fullyQualifiedTypeName name="Clases_2.Triangulo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
