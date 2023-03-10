@@ -1,13 +1,9 @@
-INDEX VERSION 1.131+C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\.metadata\.plugins\org.eclipse.jdt.core
-3040659936.index
-1639956899.index
-2296145046.index
-865390393.index
-297887749.index
-381219125.index
-1198436694.index
-2803051198.index
-667458887.index
-1041922820.index
+INDEX VERSION 1.131+S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\.metadata\.plugins\org.eclipse.jdt.core
+1411245328.index
+1694575766.index
+588961158.index
 1865797976.index
-807628431.index
+1399857417.index
+1198436694.index
+3396956339.index
+3179167781.index

@@ -25,9 +25,15 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="Clases_1.CajonFacturas"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="Clases_2.Cuadrado"/>
     <fullyQualifiedTypeName name="Clases_2.Triangulo"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Herencias_4.Plato"/>
+    <fullyQualifiedTypeName name="Herencias_4.Primero"/>
+    <fullyQualifiedTypeName name="Herencias_4.Carne"/>
+    <fullyQualifiedTypeName name="Herencias_4.Pescado"/>
+    <fullyQualifiedTypeName name="Herencias_4.Postre"/>
+    <fullyQualifiedTypeName name="Herencias_4.Comanda"/>
 </qualifiedTypeNameHistroy>
