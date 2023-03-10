@@ -61,11 +61,19 @@ public class Comanda {
 	public void añadirPlatos(Plato platos) {
 		this.platos.add(platos);
 	}
+	
+	/**
+	 * Es necesario tener Equals en los DTO (Carne, pescado, postre, primero)
+	 * @param platos
+	 */
+	public void borrarPlatos(Plato platos) {
+		this.platos.remove(platos);
+	}
 
 
 	@Override
 	public String toString() {
-		return "Comanda => numeroMesa:" + numeroMesa + "\nNumeroComensales:" + numeroComensales + "\nPlato" + platos.toString();
+		return "Comanda => numeroMesa:" + numeroMesa + "\nNumeroComensales:" + numeroComensales + "\nPlato" + platos.toString() + "\nCoste total: " + coste();
 	}
 	
 
