@@ -18728,3 +18728,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration Rombo_n references 
 2023-03-10 14:16:32,050 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema_6_y_7\src\main\resources
 2023-03-10 14:16:32,053 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-10 14:16:32,053 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema_6_y_7\src\test\resources
+2023-03-21 09:14:53,329 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
