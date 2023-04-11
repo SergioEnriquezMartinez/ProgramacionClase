@@ -2,6 +2,8 @@ package ProgramacionExtremaRepaso;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 public class Pedido {
@@ -13,6 +15,7 @@ public class Pedido {
 	private String direccionDestinatario;
 	private LocalDate fechaPedido;
 	private LocalDateTime horaPedido;
+	private List<Producto> cesta;
 	
 	public Pedido(int numReferencia, String nombreDestinatario, String primerApellidoDestinatario,
 			String segundoApellidoDestinatario, String direccionDestinatario, LocalDate fechaPedido,
@@ -25,15 +28,39 @@ public class Pedido {
 		this.direccionDestinatario = direccionDestinatario;
 		this.fechaPedido = fechaPedido;
 		this.horaPedido = horaPedido;
+		this.cesta = new ArrayList<>();
 	}
 	
+	public void addProducto(Producto p) {
+		this.cesta.add(p);
+	}
 	
+	public boolean remove(String nombreProducto) {
+		for (Producto p : cesta) {
+			if (p.getNombreProducto().equals(nombreProducto)) {
+				cesta.remove(p);
+				return true;
+			}
+		}
+		return false;
+	}
 	
-	
-	/*public double precioTotal(double precioUnidad, int numeroUnidades) {
+	public double precioTotal(double precioUnidad, int numeroUnidades) {
+		double costeTotal = 0;
 		
-		return this.precioUnidad * this.numeroUnidades;
-	}*/
+		for (Producto p : cesta) {
+			double costeCesta = p.getPrecioUnidad() * p.getNumeroUnidades();
+			if (p instanceof RamoFlores) {
+				if (((RamoFlores)p).getNumeroFlores() >= 5 && ((RamoFlores)p).getNumeroFlores() <= 10) {
+					costeCesta *= 1.1;
+				} else if (((RamoFlores)p).getNumeroFlores() > 10) {
+					costeCesta *= 1.25;
+				}
+			}
+			costeTotal += costeCesta;
+		}
+		return costeTotal;
+	}
 
 
 	public int getNumReferencia() {
@@ -91,12 +118,25 @@ public class Pedido {
 		this.horaPedido = horaPedido;
 	}
 
-	
+
+	public List<Producto> getCesta() {
+		return cesta;
+	}
+	public void setCesta(List<Producto> cesta) {
+		this.cesta = cesta;
+	}
+
+
+
+
 	@Override
 	public int hashCode() {
-		return Objects.hash(direccionDestinatario, fechaPedido, horaPedido, nombreDestinatario, numReferencia,
+		return Objects.hash(cesta, direccionDestinatario, fechaPedido, horaPedido, nombreDestinatario, numReferencia,
 				primerApellidoDestinatario, segundoApellidoDestinatario);
 	}
+
+
+
 
 	@Override
 	public boolean equals(Object obj) {
@@ -107,20 +147,26 @@ public class Pedido {
 		if (getClass() != obj.getClass())
 			return false;
 		Pedido other = (Pedido) obj;
-		return Objects.equals(direccionDestinatario, other.direccionDestinatario)
+		return Objects.equals(cesta, other.cesta) && Objects.equals(direccionDestinatario, other.direccionDestinatario)
 				&& Objects.equals(fechaPedido, other.fechaPedido) && Objects.equals(horaPedido, other.horaPedido)
 				&& Objects.equals(nombreDestinatario, other.nombreDestinatario) && numReferencia == other.numReferencia
 				&& Objects.equals(primerApellidoDestinatario, other.primerApellidoDestinatario)
 				&& Objects.equals(segundoApellidoDestinatario, other.segundoApellidoDestinatario);
 	}
 
+
+
+
 	@Override
 	public String toString() {
 		return "Pedido [numReferencia=" + numReferencia + ", nombreDestinatario=" + nombreDestinatario
 				+ ", primerApellidoDestinatario=" + primerApellidoDestinatario + ", segundoApellidoDestinatario="
 				+ segundoApellidoDestinatario + ", direccionDestinatario=" + direccionDestinatario + ", fechaPedido="
-				+ fechaPedido + ", horaPedido=" + horaPedido + "]";
+				+ fechaPedido + ", horaPedido=" + horaPedido + ", cesta=" + cesta + "]";
 	}
+
+	
+
 	
 	
 
