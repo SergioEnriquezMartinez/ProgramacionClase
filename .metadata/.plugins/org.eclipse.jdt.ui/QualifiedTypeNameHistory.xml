@@ -38,4 +38,10 @@
     <fullyQualifiedTypeName name="Herencias_4.Comanda"/>
     <fullyQualifiedTypeName name="Hipodromo.Hipodromo"/>
     <fullyQualifiedTypeName name="ProgramacionExtremaRepaso.Planta"/>
+    <fullyQualifiedTypeName name="PDF_1_EJ_1.SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="PDF_1_EJ_1.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
 </qualifiedTypeNameHistroy>

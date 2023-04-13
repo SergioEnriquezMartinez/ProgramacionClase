@@ -29,6 +29,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Edu.Sergio.daw.Tema_9"/>
+			<item value="Edu.Sergio.daw.Tema_8"/>
 			<item value="Edu.Sergio.daw.Tema_6_y_7"/>
 			<item value="Edu.Sergio.daw.Tema5"/>
 			<item value="Edu.Sergio.daw.Tema4"/>
@@ -41,6 +43,8 @@
 			<item value="Edu.Sergio.daw"/>
 		</list>
 		<list key="artifactId">
+			<item value="Tema_9"/>
+			<item value="Tema_8"/>
 			<item value="Tema_6_y_7"/>
 			<item value="Tema5"/>
 			<item value="Tema4"/>
@@ -86,8 +90,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase"/>
 			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase"/>
+			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase"/>
 			<item value="C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema4"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema4"/>
 			<item value="S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema3"/>
