@@ -19751,3 +19751,68 @@ org.eclipse.core.runtime.CoreException: Launch configuration Rombo_n references 
 2023-04-13 10:40:35,730 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema_8\src\main\resources
 2023-04-13 10:40:35,732 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-04-13 10:40:35,732 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sergi\Desktop\DAW 1\Programacion\ProgramacionClase\Tema_8\src\test\resources
+2023-04-15 17:19:28,695 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 17:19:47,365 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Tema_6_y_7:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_6_y_7\pom.xml.
+2023-04-15 17:19:47,519 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Ejercicios_Entrega_Tema2:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_2_Entrega\pom.xml.
+2023-04-15 17:19:47,546 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:tema1:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_1\pom.xml.
+2023-04-15 17:19:47,578 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:tema2:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_2\pom.xml.
+2023-04-15 17:19:47,602 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Tema3:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_3\pom.xml.
+2023-04-15 17:19:47,624 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Tema4:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_4\pom.xml.
+2023-04-15 17:19:47,645 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Tema5:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_5\pom.xml.
+2023-04-15 17:19:47,665 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Tema_8:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_8\pom.xml.
+2023-04-15 17:19:47,686 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Edu.Sergio.daw:Tema_9:0.0.1-SNAPSHOT @ S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_9\pom.xml.
+2023-04-15 17:19:49,131 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_3/src/main/java
+2023-04-15 17:19:49,132 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_3/src/test/java
+2023-04-15 17:19:49,176 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_4/src/main/java
+2023-04-15 17:19:49,176 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_4/src/test/java
+2023-04-15 17:19:49,195 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_1/src/main/java
+2023-04-15 17:19:49,195 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_1/src/test/java
+2023-04-15 17:19:49,213 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_5/src/main/java
+2023-04-15 17:19:49,214 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_5/src/test/java
+2023-04-15 17:19:49,234 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_2/src/main/java
+2023-04-15 17:19:49,235 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_2/src/test/java
+2023-04-15 17:19:49,265 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_9/src/main/java
+2023-04-15 17:19:49,266 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_9/src/test/java
+2023-04-15 17:19:49,321 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_6_y_7/src/main/java
+2023-04-15 17:19:49,323 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_6_y_7/src/test/java
+2023-04-15 17:19:49,344 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_8/src/main/java
+2023-04-15 17:19:49,344 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_8/src/test/java
+2023-04-15 17:19:49,368 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_2_Entrega/src/main/java
+2023-04-15 17:19:49,369 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema_2_Entrega/src/test/java
+2023-04-15 17:19:49,381 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 9 project(s) in 4 sec
+2023-04-15 17:19:50,501 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:50,501 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_1\src\main\resources
+2023-04-15 17:19:50,504 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:50,504 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_1\src\test\resources
+2023-04-15 17:19:50,855 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:50,856 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_2\src\main\resources
+2023-04-15 17:19:50,856 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:50,856 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_2\src\test\resources
+2023-04-15 17:19:51,008 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,008 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_2_Entrega\src\main\resources
+2023-04-15 17:19:51,010 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,010 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_2_Entrega\src\test\resources
+2023-04-15 17:19:51,189 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,189 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_3\src\main\resources
+2023-04-15 17:19:51,191 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,191 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_3\src\test\resources
+2023-04-15 17:19:51,298 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,298 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_4\src\main\resources
+2023-04-15 17:19:51,300 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,300 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_4\src\test\resources
+2023-04-15 17:19:51,434 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,434 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_5\src\main\resources
+2023-04-15 17:19:51,435 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,436 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_5\src\test\resources
+2023-04-15 17:19:51,610 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,610 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_6_y_7\src\main\resources
+2023-04-15 17:19:51,611 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,611 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_6_y_7\src\test\resources
+2023-04-15 17:19:51,669 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,669 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_8\src\main\resources
+2023-04-15 17:19:51,671 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,671 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_8\src\test\resources
+2023-04-15 17:19:51,691 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,691 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_9\src\main\resources
+2023-04-15 17:19:51,693 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 17:19:51,693 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\Escritorio\Serj\DAW\DAW 1\Programacion\ProgramacionClase\Tema_9\src\test\resources
