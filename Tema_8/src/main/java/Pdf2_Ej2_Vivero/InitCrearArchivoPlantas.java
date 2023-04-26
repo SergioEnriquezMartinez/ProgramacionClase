@@ -1,4 +1,4 @@
-package Vivero;
+package Pdf2_Ej2_Vivero;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;

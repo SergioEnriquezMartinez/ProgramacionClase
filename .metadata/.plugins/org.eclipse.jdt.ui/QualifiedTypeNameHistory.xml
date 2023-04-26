@@ -24,7 +24,6 @@
     <fullyQualifiedTypeName name="Clases_1.Factura"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="Clases_1.CajonFacturas"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="Clases_2.Cuadrado"/>
     <fullyQualifiedTypeName name="Clases_2.Triangulo"/>
@@ -44,4 +43,10 @@
     <fullyQualifiedTypeName name="java.io.OutputStream"/>
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.NoMeGustaTuNombreException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.PandillaCompletaException"/>
+    <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.Pandilla"/>
+    <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.Amigo"/>
 </qualifiedTypeNameHistroy>

@@ -1,4 +1,4 @@
-package PDF_1_EJ_1;
+package Pdf1_Ej1_CuentaCorriente;
 
 import java.util.Objects;
 
