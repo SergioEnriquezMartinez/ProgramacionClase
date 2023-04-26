@@ -17,7 +17,6 @@
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="Clases_1.Producto"/>
     <fullyQualifiedTypeName name="Clases_1.Stock"/>
     <fullyQualifiedTypeName name="java.util.DoubleSummaryStatistics"/>
@@ -43,10 +42,14 @@
     <fullyQualifiedTypeName name="java.io.OutputStream"/>
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
-    <fullyQualifiedTypeName name="java.lang.Throwable"/>
     <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.NoMeGustaTuNombreException"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.PandillaCompletaException"/>
     <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.Pandilla"/>
     <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.Amigo"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="Pdf1_Ej4_Parking.TicketException"/>
 </qualifiedTypeNameHistroy>
