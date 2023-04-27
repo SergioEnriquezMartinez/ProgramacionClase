@@ -5,7 +5,7 @@ public class TicketException extends Exception{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 5698563169360543497L;
 
 	
 	public TicketException() {

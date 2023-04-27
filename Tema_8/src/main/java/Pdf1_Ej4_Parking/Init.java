@@ -4,13 +4,13 @@ package Pdf1_Ej4_Parking;
 public class Init {
 	public static void main(String[] args) {
 		Parking p = new Parking();
-		Ticket t = new Ticket("434343X", false);
-		Ticket t2 = new Ticket("434343X", false);
-		Ticket t3 = new Ticket("523453X", false);
-		Ticket t4 = new Ticket("434343c", true);
-		Ticket t5 = new Ticket("1234343X", false);
-		Ticket t6 = new Ticket("78t343X", false);
-		Ticket t7 = new Ticket("78t343f", false);
+		Ticket t = new Ticket("434343X");
+		Ticket t2 = new Ticket("434343X");
+		Ticket t3 = new Ticket("523453X");
+		Ticket t4 = new Ticket("434343c");
+		Ticket t5 = new Ticket("1234343X");
+		Ticket t6 = new Ticket("78t343X");
+		Ticket t7 = new Ticket("78t343f");
 
 		try {
 			p.addTicket(t);
