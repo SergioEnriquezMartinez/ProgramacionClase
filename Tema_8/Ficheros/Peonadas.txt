@@ -1,0 +1,4 @@
+1/6/2014:Juan,Pedro,Daniel,Carlos
+2/6/2014:Pedro,Carlos,Luis,Daniel
+3/6/2014:Carlos,Pedro
+4/6/2014:Juan,Luis,Pedro
