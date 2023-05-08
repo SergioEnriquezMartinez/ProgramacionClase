@@ -40,7 +40,6 @@
     <fullyQualifiedTypeName name="PDF_1_EJ_1.CuentaCorriente"/>
     <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="java.io.OutputStream"/>
-    <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
     <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.NoMeGustaTuNombreException"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
@@ -55,4 +54,7 @@
     <fullyQualifiedTypeName name="java.lang.Package"/>
     <fullyQualifiedTypeName name="Pdf1_Ej4_Parking.Ticket"/>
     <fullyQualifiedTypeName name="Pdf1_Ej4_Parking.Parking"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
 </qualifiedTypeNameHistroy>
