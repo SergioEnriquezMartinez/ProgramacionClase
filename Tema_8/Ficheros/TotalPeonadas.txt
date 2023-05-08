@@ -1,5 +1,5 @@
-Juan:2
-Pedro:4
-Daniel:2
-Carlos:3
-Luis:2
+Trabajador [nombre=Juan, peonadas=2]
+Trabajador [nombre=Pedro, peonadas=4]
+Trabajador [nombre=Daniel, peonadas=2]
+Trabajador [nombre=Carlos, peonadas=3]
+Trabajador [nombre=Luis, peonadas=2]

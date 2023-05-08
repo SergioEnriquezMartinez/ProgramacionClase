@@ -1,6 +1,7 @@
 package Pdf2_Ej1_Peonadas;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -17,7 +18,7 @@ public class Init {
 	public static ArrayList<Trabajador> crearListaTrabajadores() {
 		
 		ArrayList<Trabajador> lista = new ArrayList<Trabajador>();
-		Path file = Paths.get("/Trabajadores.txt");
+		Path file = Paths.get("Ficheros/Trabajadores.txt");
 		
 		try (BufferedReader br = Files.newBufferedReader(file, StandardCharsets.UTF_8)) {
 			
@@ -36,5 +37,50 @@ public class Init {
 		return lista;
 	}
 	
+	
+	public static void totalPeonadas(ArrayList<Trabajador> lista) {
+		
+		ArrayList<Trabajador> trabajadores = new ArrayList<Trabajador>();
+		trabajadores = lista;
+		Path file = Paths.get("Ficheros/Peonadas.txt");
+		
+		try (BufferedReader br = Files.newBufferedReader(file, StandardCharsets.UTF_8)) {
+			
+			String linea = null;
+			String [] filtrados = null;
+			
+			while((linea = br.readLine()) != null) {
+				filtrados = linea.split("[:,]");
+				for (int i = 0; i < lista.size(); i++) {
+					for (int j = 0; j < filtrados.length; j++) {
+						if (lista.get(i).getNombre().equals(filtrados[j])) {
+							lista.get(i).setPeonadas();
+						}
+					}
+					
+				}
+			}
+			System.out.println("Generando fichero.");
+			
+			Path file2 = Paths.get("Ficheros/TotalPeonadas.txt");
+			
+			try (BufferedWriter bw = Files.newBufferedWriter(file2, StandardCharsets.UTF_8)) {
+				
+				for (Trabajador t : trabajadores) {
+					bw.write(t.toString() + "\n");
+					
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println("Acabado.");
+	}
+	
+	public static void main(String[] args) {
+		totalPeonadas(crearListaTrabajadores());
+	}
 	
 }

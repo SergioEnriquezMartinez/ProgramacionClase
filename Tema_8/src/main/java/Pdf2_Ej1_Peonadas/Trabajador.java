@@ -27,8 +27,8 @@ public class Trabajador {
 	public int getPeonadas() {
 		return peonadas;
 	}
-	public void setPeonadas(int peonadas) {
-		this.peonadas = peonadas;
+	public void setPeonadas() {
+		this.peonadas++;
 	}
 
 

@@ -27,7 +27,6 @@
     <fullyQualifiedTypeName name="Clases_2.Cuadrado"/>
     <fullyQualifiedTypeName name="Clases_2.Triangulo"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="Herencias_4.Plato"/>
     <fullyQualifiedTypeName name="Herencias_4.Primero"/>
     <fullyQualifiedTypeName name="Herencias_4.Carne"/>
@@ -38,7 +37,6 @@
     <fullyQualifiedTypeName name="ProgramacionExtremaRepaso.Planta"/>
     <fullyQualifiedTypeName name="PDF_1_EJ_1.SaldoInsuficienteException"/>
     <fullyQualifiedTypeName name="PDF_1_EJ_1.CuentaCorriente"/>
-    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="java.io.OutputStream"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
     <fullyQualifiedTypeName name="Pdf1_Ej3_Amigos.NoMeGustaTuNombreException"/>
@@ -54,7 +52,10 @@
     <fullyQualifiedTypeName name="java.lang.Package"/>
     <fullyQualifiedTypeName name="Pdf1_Ej4_Parking.Ticket"/>
     <fullyQualifiedTypeName name="Pdf1_Ej4_Parking.Parking"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
 </qualifiedTypeNameHistroy>
