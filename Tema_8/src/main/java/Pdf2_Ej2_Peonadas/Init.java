@@ -1,4 +1,4 @@
-package Pdf2_Ej1_Peonadas;
+package Pdf2_Ej2_Peonadas;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
