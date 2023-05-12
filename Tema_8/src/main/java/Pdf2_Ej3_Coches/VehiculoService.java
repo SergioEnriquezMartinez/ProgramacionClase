@@ -21,10 +21,11 @@ public class VehiculoService {
 	 * @param v le pasamos un vehiculo v
 	 * @return si el metodo anterior es true actualiza el precio a uno con un descuento del 15%, sino lo deja como esta
 	 */
-	public double descuento15(Vehiculo v) {
+	public boolean descuento15(Vehiculo v) {
 		if (diasExposicion(v) == true) {
 			v.setPrecio(v.getPrecio() * (1 - (v.getDESCUENTO() / 100)));
+			return true;
 		}
-		return v.getPrecio();
+		return false;
 	}
 }
