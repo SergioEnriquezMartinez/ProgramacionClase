@@ -53,43 +53,68 @@ public class ConfigLoader {
 			
 			String line = null;
 			while((line = br.readLine()) != null && line.trim().length() != 0) {
-				logger.debug(line);
+				logger.debug("Linea: " + line);
 				String[] configLine = line.split("=");
-				switch (configLine[0]) {
+				switch (configLine[0].trim()) {
 				case "db_type":
-					if(configLine[1].trim().isEmpty() || configLine[1].trim().length() == 0) {
+					if(configLine.length == 2) {
+						if(configLine[1].trim().isEmpty()) {
+							this.db_type = DB_TYPE_DEFAULT;
+						} else {						
+							this.db_type = configLine[1].trim();
+						}
+					} else {
 						this.db_type = DB_TYPE_DEFAULT;
-					} else {						
-						this.db_type = configLine[1];
 					}
+					logger.debug("Valor obtenido: " + this.db_type);
 					break;
 				case "db_url":
-					if(configLine[1].trim().isEmpty() || configLine[1].trim().length() == 0) {
+					if(configLine.length == 2) {
+						if(configLine[1].trim().isEmpty()) {
+							this.db_url = DB_URL_DEFAULT;
+						} else {						
+							this.db_url = configLine[1].trim();
+						}
+					} else {
 						this.db_url = DB_URL_DEFAULT;
-					} else {						
-						this.db_url = configLine[1];
 					}
+					logger.debug("Valor obtenido: " + this.db_url);
 					break;
 				case "db_name":
-					if(configLine[1].trim().isEmpty() || configLine[1].trim().length() == 0) {
+					if(configLine.length == 2) {
+						if(configLine[1].trim().isEmpty()) {
+							this.db_name = DB_NAME_DEFAULT;
+						} else {						
+							this.db_name = configLine[1].trim();
+						}
+					} else {
 						this.db_name = DB_NAME_DEFAULT;
-					} else {						
-						this.db_name = configLine[1];
 					}
+					logger.debug("Valor obtenido: " + this.db_name);
 					break;
 				case "db_user":
-					if(configLine[1].trim().isEmpty() || configLine[1].trim().length() == 0) {
+					if(configLine.length == 2) {
+						if(configLine[1].trim().isEmpty()) {
+							this.db_user = DB_USER_DEFAULT;
+						} else {						
+							this.db_user = configLine[1].trim();
+						}
+					} else {
 						this.db_user = DB_USER_DEFAULT;
-					} else {						
-						this.db_user = configLine[1];
 					}
+					logger.debug("Valor obtenido: " + this.db_user);
 					break;
 				case "db_pass":
-					if(configLine[1].trim().isEmpty() || configLine[1].trim().length() == 0) {
+					if(configLine.length == 2) {						
+						if(configLine[1].trim().isEmpty()) {
+							this.db_pass = DB_PASS_DEFAULT;
+						} else {						
+							this.db_pass = configLine[1].trim();
+						}
+					} else {
 						this.db_pass = DB_PASS_DEFAULT;
-					} else {						
-						this.db_pass = configLine[1];
 					}
+					logger.debug("Valor obtenido: " + this.db_pass);
 					break;
 				}
 			}
@@ -119,8 +144,4 @@ public class ConfigLoader {
 	public String getDb_pass() {
 		return db_pass;
 	}
-
-	
-
 }
-

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Edu.Sergio.daw.Tema3.Cliente"/>
     <fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCreation"/>
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cliente"/>
     <fullyQualifiedTypeName name="Edu.Sergio.daw.CuentaBancaria.Cuenta"/>
@@ -59,4 +58,6 @@
     <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
     <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="edu.alonso.daw.tema9_world.utils.ConfigLoader"/>
 </qualifiedTypeNameHistroy>
