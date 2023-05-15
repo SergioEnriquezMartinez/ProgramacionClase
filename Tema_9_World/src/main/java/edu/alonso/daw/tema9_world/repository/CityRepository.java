@@ -2,15 +2,21 @@ package edu.alonso.daw.tema9_world.repository;
 
 import java.util.Set;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import edu.alonso.daw.tema9_world.dao.CityDAO;
 import edu.alonso.daw.tema9_world.dao.CityDAOMySql;
 import edu.alonso.daw.tema9_world.model.City;
+import edu.alonso.daw.tema9_world.utils.ConfigLoader;
 
 public class CityRepository {
 	
 	private CityDAO dao;
 	
 	private static CityRepository instance;
+	
+	private static Logger logger = LogManager.getLogger(CityRepository.class);
 	
 	public static synchronized CityRepository getInstace() {
 		if(instance == null) {
@@ -20,18 +26,16 @@ public class CityRepository {
 	}
 	
 	private CityRepository() {
-		// Si estuviera perfecto: Aquí elegiría el tipo de SGBD y lo instanciaría
-		// Leería la configuración y decidiría el motor de BBDD
-		/*switch (tipoBBDD) {
-		case value:
+		logger.info("Creando el dao para City...");
+		
+		if(ConfigLoader.getInstance().getDb_type().equalsIgnoreCase("mysql")) {
 			this.dao = new CityDAOMySql();
-			break;
-
-		default:
-			this.dao = new CityDAOOracle();
-		}*/
-		this.dao = new CityDAOMySql();
+		}
+		
+		logger.info("Dao para City creado con éxito");
 	}
+	
+	
 	
 	
 	public Set<City> getAll() {

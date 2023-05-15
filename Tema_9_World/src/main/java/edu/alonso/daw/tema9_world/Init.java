@@ -18,12 +18,13 @@ public class Init {
 		
 		
 		
-		logger.debug("Example log from");
+		/*logger.debug("Example log from");
 		logger.info("Example log from");
 		logger.warn("Example log from");
 		logger.error("Example log from");
-		logger.fatal("Example log from");
+		logger.fatal("Example log from");*/
 		
+		logger.info("Inicio del programa...");
 
 		Scanner sc = new Scanner(System.in);
 		int opt = 0;
